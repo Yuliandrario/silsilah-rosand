@@ -1,13 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Silsilah Keluarga Rosandf</title>
-    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+    <!-- Tailwind CSS via CDN untuk kemudahan kustomisasi cepat -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // Konfigurasi tema Tailwind jika diperlukan
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              clifford: '#da373d',
+            }
+          }
+        }
+      }
+    </script>
   </head>
-  <body>
+  <body class="bg-slate-50">
     <div id="root"></div>
+    <!-- Mengarah ke file utama di dalam folder src -->
     <script type="module" src="/src/App.jsx"></script>
   </body>
 </html>
