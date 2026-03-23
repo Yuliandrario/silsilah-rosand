@@ -1,4 +1,4 @@
-🌳 Silsilah Keluarga Rosandf
+🌳 Silsilah Rosand Big Family
 
 Aplikasi pohon keluarga interaktif yang dibangun menggunakan React, Tailwind CSS, dan Lucide Icons. Data dikelola secara dinamis melalui Google Sheets via Sheety API, memungkinkan pembaruan data tanpa harus mengubah kode.
 
@@ -18,7 +18,7 @@ Sinkronisasi Cloud: Data terhubung langsung dengan Google Sheets.
 
 Clone repositori ini:
 
-git clone [https://github.com/username/silsilah-rosandf.git](https://github.com/username/silsilah-rosandf.git)
+git clone [https://github.com/username/silsilah-rosand.git](https://github.com/username/silsilah-rosand.git)
 
 
 Masuk ke direktori proyek:
@@ -42,7 +42,7 @@ Proyek ini dirancang untuk bekerja sempurna dengan Vercel:
 
 Hubungkan akun GitHub Anda ke Vercel.
 
-Pilih repositori silsilah-rosandf.
+Pilih repositori silsilah-rosand.
 
 Vercel akan mendeteksi konfigurasi Vite secara otomatis.
 
