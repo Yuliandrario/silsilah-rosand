@@ -35,7 +35,7 @@ const INITIAL_DATA = [
     birthDate: "12 Mei 1945",
     birthPlace: "Jakarta",
     occupation: "Pensiunan Guru",
-    bio: "Pendiri keluarga besar Rosandf. Data ini muncul sebagai placeholder sebelum Anda menghubungkan API Sheety.",
+    bio: "Pendiri keluarga besar Rosand. Data ini muncul sebagai placeholder sebelum Anda menghubungkan API Sheety.",
     generation: 1,
     parentId: null,
     children: ["2", "3"]
